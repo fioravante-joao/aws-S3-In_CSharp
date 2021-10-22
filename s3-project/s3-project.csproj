@@ -60,8 +60,6 @@
   <ItemGroup>
     <Analyzer Include="..\packages\AWSSDK.S3.3.7.3.8\analyzers\dotnet\cs\AWSSDK.S3.CodeAnalysis.dll" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Arquivos\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
