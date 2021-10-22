@@ -1,6 +1,10 @@
 # aws-S3-In_CSharp
 <h2>Consumindo AWSSDK.S3</h2>
 
+<p align="center">
+  <img src="https://bela-estudo-s3.s3.sa-east-1.amazonaws.com/AWSS3.png" width="1000" height="300" title="hover text">
+</p>
+
 Esse projeto tem o intuíto de ajudar nos estudos da AWS-S3  Service, pois ensina os principais requisitos para uma boa manipulação dos buckets e seus objetos.
 
 Oque está sendo feito no projeto:
