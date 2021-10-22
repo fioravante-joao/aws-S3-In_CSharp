@@ -1,0 +1,14 @@
+C:\Users\JVFS\source\repos\s3-project\s3-project\bin\Debug\s3-project.exe.config
+C:\Users\JVFS\source\repos\s3-project\s3-project\bin\Debug\s3-project.exe
+C:\Users\JVFS\source\repos\s3-project\s3-project\bin\Debug\s3-project.pdb
+C:\Users\JVFS\source\repos\s3-project\s3-project\bin\Debug\AWSSDK.Core.dll
+C:\Users\JVFS\source\repos\s3-project\s3-project\bin\Debug\AWSSDK.S3.dll
+C:\Users\JVFS\source\repos\s3-project\s3-project\bin\Debug\AWSSDK.Core.pdb
+C:\Users\JVFS\source\repos\s3-project\s3-project\bin\Debug\AWSSDK.Core.xml
+C:\Users\JVFS\source\repos\s3-project\s3-project\bin\Debug\AWSSDK.S3.pdb
+C:\Users\JVFS\source\repos\s3-project\s3-project\bin\Debug\AWSSDK.S3.xml
+C:\Users\JVFS\source\repos\s3-project\s3-project\obj\Debug\s3-project.csprojAssemblyReference.cache
+C:\Users\JVFS\source\repos\s3-project\s3-project\obj\Debug\s3-project.csproj.CoreCompileInputs.cache
+C:\Users\JVFS\source\repos\s3-project\s3-project\obj\Debug\s3-project.csproj.CopyComplete
+C:\Users\JVFS\source\repos\s3-project\s3-project\obj\Debug\s3-project.exe
+C:\Users\JVFS\source\repos\s3-project\s3-project\obj\Debug\s3-project.pdb
